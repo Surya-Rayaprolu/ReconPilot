@@ -1,0 +1,2 @@
+# No third-party dependencies required - stdlib only (csv, difflib, json, urllib).
+# Listed for completeness / future extension.

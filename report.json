@@ -1,0 +1,513 @@
+{
+  "summary": {
+    "bank_records": 56,
+    "ledger_records": 61,
+    "total_records": 117,
+    "matched_pairs": 53,
+    "matched_records": 106,
+    "match_rate": 0.906,
+    "match_rate_pct": "90.6%",
+    "matches_by_tier": {
+      "exact": 37,
+      "reference": 12,
+      "fuzzy": 4
+    },
+    "unresolved_exceptions": 11
+  },
+  "matches": [
+    {
+      "bank_id": "B0005",
+      "ledger_id": "L0005",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0044",
+      "ledger_id": "L0044",
+      "tier": "reference",
+      "confidence": 0.9,
+      "reason": "Matched on reference number; date differs by 1 day(s) (settlement lag)."
+    },
+    {
+      "bank_id": "B0026",
+      "ledger_id": "L0026",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0020",
+      "ledger_id": "L0020",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0002",
+      "ledger_id": "L0002",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0053",
+      "ledger_id": "L0056",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0018",
+      "ledger_id": "L0018",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0012",
+      "ledger_id": "L0012",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0009",
+      "ledger_id": "L0009",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0015",
+      "ledger_id": "L0015",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0008",
+      "ledger_id": "L0008",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0013",
+      "ledger_id": "L0013",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0039",
+      "ledger_id": "L0039",
+      "tier": "reference",
+      "confidence": 0.7,
+      "reason": "Matched on reference number; amount differs by \u20b916.83."
+    },
+    {
+      "bank_id": "B0040",
+      "ledger_id": "L0040",
+      "tier": "reference",
+      "confidence": 0.9,
+      "reason": "Matched on reference number; date differs by 1 day(s) (settlement lag)."
+    },
+    {
+      "bank_id": "B0004",
+      "ledger_id": "L0004",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0037",
+      "ledger_id": "L0037",
+      "tier": "reference",
+      "confidence": 0.7,
+      "reason": "Matched on reference number; amount differs by \u20b96.75."
+    },
+    {
+      "bank_id": "B0025",
+      "ledger_id": "L0025",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0022",
+      "ledger_id": "L0022",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0035",
+      "ledger_id": "L0035",
+      "tier": "reference",
+      "confidence": 0.7,
+      "reason": "Matched on reference number; amount differs by \u20b95.77."
+    },
+    {
+      "bank_id": "B0030",
+      "ledger_id": "L0030",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0010",
+      "ledger_id": "L0010",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0038",
+      "ledger_id": "L0038",
+      "tier": "reference",
+      "confidence": 0.7,
+      "reason": "Matched on reference number; amount differs by \u20b918.57."
+    },
+    {
+      "bank_id": "B0033",
+      "ledger_id": "L0033",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0052",
+      "ledger_id": "L0054",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0016",
+      "ledger_id": "L0016",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0021",
+      "ledger_id": "L0021",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0034",
+      "ledger_id": "L0034",
+      "tier": "reference",
+      "confidence": 0.7,
+      "reason": "Matched on reference number; amount differs by \u20b919.29."
+    },
+    {
+      "bank_id": "B0007",
+      "ledger_id": "L0007",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0024",
+      "ledger_id": "L0024",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0045",
+      "ledger_id": "L0045",
+      "tier": "reference",
+      "confidence": 0.9,
+      "reason": "Matched on reference number; date differs by 1 day(s) (settlement lag)."
+    },
+    {
+      "bank_id": "B0017",
+      "ledger_id": "L0017",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0019",
+      "ledger_id": "L0019",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0003",
+      "ledger_id": "L0003",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0041",
+      "ledger_id": "L0041",
+      "tier": "reference",
+      "confidence": 0.9,
+      "reason": "Matched on reference number; date differs by 2 day(s) (settlement lag)."
+    },
+    {
+      "bank_id": "B0006",
+      "ledger_id": "L0006",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0001",
+      "ledger_id": "L0001",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0028",
+      "ledger_id": "L0028",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0031",
+      "ledger_id": "L0031",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0036",
+      "ledger_id": "L0036",
+      "tier": "reference",
+      "confidence": 0.7,
+      "reason": "Matched on reference number; amount differs by \u20b915.37."
+    },
+    {
+      "bank_id": "B0027",
+      "ledger_id": "L0027",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0043",
+      "ledger_id": "L0043",
+      "tier": "reference",
+      "confidence": 0.9,
+      "reason": "Matched on reference number; date differs by 2 day(s) (settlement lag)."
+    },
+    {
+      "bank_id": "B0050",
+      "ledger_id": "L0051",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0029",
+      "ledger_id": "L0029",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0023",
+      "ledger_id": "L0023",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0032",
+      "ledger_id": "L0032",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0014",
+      "ledger_id": "L0014",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0011",
+      "ledger_id": "L0011",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0051",
+      "ledger_id": "L0053",
+      "tier": "exact",
+      "confidence": 1.0,
+      "reason": "Reference, amount and date all match exactly."
+    },
+    {
+      "bank_id": "B0042",
+      "ledger_id": "L0042",
+      "tier": "reference",
+      "confidence": 0.9,
+      "reason": "Matched on reference number; date differs by 3 day(s) (settlement lag)."
+    },
+    {
+      "bank_id": "B0047",
+      "ledger_id": "L0047",
+      "tier": "fuzzy",
+      "confidence": 1.0,
+      "reason": "No reference match; fuzzy-matched on amount (\u0394\u20b90.00), date (\u03940d) and description similarity."
+    },
+    {
+      "bank_id": "B0048",
+      "ledger_id": "L0048",
+      "tier": "fuzzy",
+      "confidence": 1.0,
+      "reason": "No reference match; fuzzy-matched on amount (\u0394\u20b90.00), date (\u03940d) and description similarity."
+    },
+    {
+      "bank_id": "B0046",
+      "ledger_id": "L0046",
+      "tier": "fuzzy",
+      "confidence": 1.0,
+      "reason": "No reference match; fuzzy-matched on amount (\u0394\u20b90.00), date (\u03940d) and description similarity."
+    },
+    {
+      "bank_id": "B0049",
+      "ledger_id": "L0049",
+      "tier": "fuzzy",
+      "confidence": 1.0,
+      "reason": "No reference match; fuzzy-matched on amount (\u0394\u20b90.00), date (\u03940d) and description similarity."
+    }
+  ],
+  "exceptions": [
+    {
+      "side": "bank",
+      "record_id": "B0055",
+      "amount": 11353.82,
+      "date": "2026-08-30",
+      "reference": "TXN100055",
+      "description": "Bank fee / charge",
+      "reason": "Reference 'TXN100055' not found on the other side; closest description match was too weak to auto-clear (similarity 0.36).",
+      "suggested_action": "A reference ('TXN100055') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    },
+    {
+      "side": "bank",
+      "record_id": "B0056",
+      "amount": 36389.8,
+      "date": "2026-08-28",
+      "reference": "TXN100056",
+      "description": "Bank fee / charge",
+      "reason": "Reference 'TXN100056' not found on the other side; closest description match was too weak to auto-clear (similarity 0.36).",
+      "suggested_action": "A reference ('TXN100056') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    },
+    {
+      "side": "bank",
+      "record_id": "B0054",
+      "amount": 6437.18,
+      "date": "2026-08-06",
+      "reference": "TXN100054",
+      "description": "Bank fee / charge",
+      "reason": "Reference 'TXN100054' not found on the other side; closest description match was too weak to auto-clear (similarity 0.36).",
+      "suggested_action": "A reference ('TXN100054') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    },
+    {
+      "side": "ledger",
+      "record_id": "L0058",
+      "amount": 2418.89,
+      "date": "2026-08-18",
+      "reference": "TXN100057",
+      "description": "Voided entry",
+      "reason": "Reference 'TXN100057' not found on the other side; closest description match was too weak to auto-clear (similarity 0.21).",
+      "suggested_action": "A reference ('TXN100057') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    },
+    {
+      "side": "ledger",
+      "record_id": "L0050",
+      "amount": 8689.88,
+      "date": "2026-08-04",
+      "reference": "TXN100050",
+      "description": "UPI collect",
+      "reason": "Reference 'TXN100050' not found on the other side; closest description match was too weak to auto-clear (similarity 0.21).",
+      "suggested_action": "A reference ('TXN100050') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    },
+    {
+      "side": "ledger",
+      "record_id": "L0059",
+      "amount": 41697.56,
+      "date": "2026-08-28",
+      "reference": "TXN100058",
+      "description": "Voided entry",
+      "reason": "Reference 'TXN100058' not found on the other side; closest description match was too weak to auto-clear (similarity 0.21).",
+      "suggested_action": "A reference ('TXN100058') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    },
+    {
+      "side": "ledger",
+      "record_id": "L0052",
+      "amount": 19147.5,
+      "date": "2026-08-15",
+      "reference": "TXN100051",
+      "description": "Payment received",
+      "reason": "Reference 'TXN100051' not found on the other side; closest description match was too weak to auto-clear (similarity 0.30).",
+      "suggested_action": "A reference ('TXN100051') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    },
+    {
+      "side": "ledger",
+      "record_id": "L0055",
+      "amount": 2868.48,
+      "date": "2026-08-24",
+      "reference": "TXN100052",
+      "description": "POS settlement (dup)",
+      "reason": "Reference 'TXN100052' not found on the other side; closest description match was too weak to auto-clear (similarity 0.22).",
+      "suggested_action": "A reference ('TXN100052') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    },
+    {
+      "side": "ledger",
+      "record_id": "L0057",
+      "amount": 11302.24,
+      "date": "2026-08-07",
+      "reference": "TXN100053",
+      "description": "NEFT credit (dup)",
+      "reason": "Reference 'TXN100053' not found on the other side; closest description match was too weak to auto-clear (similarity 0.35).",
+      "suggested_action": "A reference ('TXN100053') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    },
+    {
+      "side": "ledger",
+      "record_id": "L0060",
+      "amount": 18377.67,
+      "date": "2026-08-16",
+      "reference": "TXN100059",
+      "description": "Voided entry",
+      "reason": "Reference 'TXN100059' not found on the other side; closest description match was too weak to auto-clear (similarity 0.21).",
+      "suggested_action": "A reference ('TXN100059') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    },
+    {
+      "side": "ledger",
+      "record_id": "L0061",
+      "amount": 40624.56,
+      "date": "2026-08-06",
+      "reference": "TXN100060",
+      "description": "Voided entry",
+      "reason": "Reference 'TXN100060' not found on the other side; closest description match was too weak to auto-clear (similarity 0.21).",
+      "suggested_action": "A reference ('TXN100060') exists but has no counterpart. The closest description match wasn't strong enough to auto-clear. Action: pull up both records side-by-side for a human decision.",
+      "note_source": "rule-based"
+    }
+  ]
+}

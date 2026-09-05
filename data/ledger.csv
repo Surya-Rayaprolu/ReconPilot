@@ -1,0 +1,62 @@
+entry_id,date,amount,reference,description,category
+L0025,2026-08-24,24323.13,TXN100025,Wallet settlement,payout
+L0015,2026-08-28,38511.0,TXN100015,Customer refund,payout
+L0032,2026-08-18,30724.71,TXN100032,Fee reversal,subscription
+L0006,2026-08-19,10036.76,TXN100006,Fee reversal,sales
+L0059,2026-08-28,41697.56,TXN100058,Voided entry,refund
+L0003,2026-08-14,4049.21,TXN100003,Payment received,sales
+L0046,2026-08-28,40758.09,,POS settlement,sales
+L0012,2026-08-27,24909.02,TXN100012,Wallet settlement,subscription
+L0013,2026-08-23,26044.24,TXN100013,Customer refund,sales
+L0044,2026-08-19,1093.39,TXN100044,Vendor payout,fee_reversal
+L0002,2026-08-24,10161.0,TXN100002,Customer refund,fee_reversal
+L0045,2026-08-24,472.51,TXN100045,Payment received,refund
+L0031,2026-08-18,23880.78,TXN100031,Payment received,sales
+L0008,2026-08-07,12612.53,TXN100008,POS settlement,sales
+L0051,2026-08-04,8689.88,TXN100050,UPI collect (dup),subscription
+L0056,2026-08-07,11302.24,TXN100053,NEFT credit,payout
+L0038,2026-08-31,39547.3,TXN100038,Customer refund,sales
+L0050,2026-08-04,8689.88,TXN100050,UPI collect,subscription
+L0055,2026-08-24,2868.48,TXN100052,POS settlement (dup),sales
+L0010,2026-08-26,27227.11,TXN100010,Payment received,payout
+L0027,2026-08-05,44880.06,TXN100027,NEFT credit,payout
+L0028,2026-08-02,4227.29,TXN100028,Customer refund,refund
+L0018,2026-08-06,27469.53,TXN100018,NEFT credit,refund
+L0039,2026-08-18,44029.43,TXN100039,Subscription renewal,refund
+L0026,2026-08-13,40417.36,TXN100026,POS settlement,refund
+L0036,2026-08-18,34333.24,TXN100036,NEFT credit,sales
+L0060,2026-08-16,18377.67,TXN100059,Voided entry,payout
+L0041,2026-08-27,41811.77,TXN100041,Vendor payout,subscription
+L0004,2026-08-08,4352.23,TXN100004,NEFT credit,fee_reversal
+L0022,2026-08-07,12158.18,TXN100022,Wallet settlement,subscription
+L0052,2026-08-15,19147.5,TXN100051,Payment received,sales
+L0034,2026-08-24,314.84,TXN100034,Fee reversal,fee_reversal
+L0053,2026-08-15,19147.5,TXN100051,Payment received (dup),sales
+L0058,2026-08-18,2418.89,TXN100057,Voided entry,sales
+L0047,2026-08-09,23209.9,,Card settlement,refund
+L0029,2026-08-26,28290.95,TXN100029,UPI collect,fee_reversal
+L0011,2026-08-30,24199.83,TXN100011,UPI collect,sales
+L0019,2026-08-13,7478.6,TXN100019,Fee reversal,fee_reversal
+L0024,2026-08-05,6557.79,TXN100024,Vendor payout,fee_reversal
+L0016,2026-08-21,12617.12,TXN100016,POS settlement,refund
+L0048,2026-08-24,24334.64,,Wallet settlement,fee_reversal
+L0023,2026-08-16,9686.3,TXN100023,UPI collect,payout
+L0061,2026-08-06,40624.56,TXN100060,Voided entry,sales
+L0017,2026-08-07,16752.62,TXN100017,Fee reversal,sales
+L0033,2026-08-14,5153.11,TXN100033,Subscription renewal,payout
+L0014,2026-08-25,29807.66,TXN100014,Fee reversal,sales
+L0035,2026-08-10,39186.99,TXN100035,NEFT credit,fee_reversal
+L0054,2026-08-24,2868.48,TXN100052,POS settlement,sales
+L0007,2026-08-06,34182.51,TXN100007,UPI collect,subscription
+L0037,2026-08-30,1030.28,TXN100037,POS settlement,subscription
+L0040,2026-08-29,12037.79,TXN100040,Wallet settlement,payout
+L0057,2026-08-07,11302.24,TXN100053,NEFT credit (dup),payout
+L0001,2026-08-01,28828.29,TXN100001,Fee reversal,refund
+L0005,2026-08-07,1340.14,TXN100005,NEFT credit,payout
+L0049,2026-08-26,21349.3,,Card settlement,payout
+L0021,2026-08-26,37007.85,TXN100021,POS settlement,payout
+L0030,2026-08-13,2999.22,TXN100030,Wallet settlement,payout
+L0020,2026-08-11,9999.74,TXN100020,Payment received,refund
+L0042,2026-08-24,44782.45,TXN100042,POS settlement,payout
+L0043,2026-08-10,20399.15,TXN100043,Vendor payout,sales
+L0009,2026-08-04,4309.65,TXN100009,POS settlement,subscription
